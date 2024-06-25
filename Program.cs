@@ -38,12 +38,6 @@ app.UseCors("CorsPolicy");  // Apply CORS policy early in the pipeline
 
 app.UseRouting();            // Enable routing
 
-//app.UseCors(options =>
-//{
-//    options.AllowAnyOrigin()
-//           .AllowAnyMethod()
-//           .AllowAnyHeader();
-//});
 
 app.UseAuthorization();      // Enable authorization
 
