@@ -1,0 +1,82 @@
+﻿# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+*.tlog
+*.vspscc
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Mac
+*.DS_Store
+
+# Configuration files
+appsettings.*.json
+appsettings.json
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+Migrations/
+
+# Packages
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IDE files
+.idea/
+
+# Rider
+.idea/
+
+# Rider/Eclipse/IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+
+# SonarQube
+.sonar/
+
+# StyleCop
+StyleCopReport.xml
+
+# User-specific files (Mono)
+mono_crash.*
+
+# ASP.NET Core
+appsettings.Development.json
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Bundle config for the ASP.NET
+.bundle
